@@ -6,5 +6,6 @@ public class Main {
         Scanner cin = new Scanner(System.in);
         int x=cin.nextInt();
         System.out.println(x);
+        int z;
     }
 }

@@ -7,6 +7,6 @@ public class Main {
         int x=cin.nextInt();
         System.out.println(x);
         int z=5;
-        int y;
+        int y=5;
     }
 }
